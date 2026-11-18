@@ -1,0 +1,6 @@
+{
+  "name": "ParkPulse",
+  "description": "AI-powered parking availability prediction and recommendation platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
